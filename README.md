@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Ajdin, and I'm Junior React Developer.
+My name is Ajdin, and I'm Junior Frontend Developer.
 
 My portfolio website is https://ajdinlojic.netlify.app/ , there you can find more about me.
 
-🔭 I'm looking for a job as React developer.
 
 Thank you for visiting my GitHub profile.
 
