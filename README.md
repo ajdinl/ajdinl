@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ajdin, and I'm Junior Frontend Developer.
+My name is Ajdin, and I'm Frontend Developer.
 
 My portfolio website is https://ajdinlojic.vercel.app/ , there you can find more about me.
 
