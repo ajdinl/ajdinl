@@ -2,7 +2,7 @@
 
 My name is Ajdin, and I'm Junior Frontend Developer.
 
-My portfolio website is https://ajdinlojic.netlify.app/ , there you can find more about me.
+My portfolio website is https://ajdinlojic.vercel.app/ , there you can find more about me.
 
 
 Thank you for visiting my GitHub profile.
