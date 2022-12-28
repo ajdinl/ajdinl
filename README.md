@@ -4,7 +4,7 @@ Hi 👋 My name is Ajdin Lojic
 Frontend Developer
 ------------------
 
-Ajdin is JavaScript Developer, which works in JavaScript - React / Next and Ember.
+Ajdin is a JavaScript Developer, with a passion for React / Next and Ember.
 
 * 🌍  I'm based in Bosnia and Herzegovina
 * 🖥️  See my portfolio at [Vercel](http://ajdinlojic.vercel.app/)
