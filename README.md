@@ -8,7 +8,7 @@ Ajdin is a JavaScript Developer, with a passion for React, NextJS and EmberJS.
 
 *   🌍  I'm based in Bosnia and Herzegovina (Sarajevo)
 *   🖥️  See my portfolio at [Vercel](http://ajdinlojic.vercel.app/)
-*   ✉️  You can contact me at [ajdinl@live.com](mailto:ajdinl@live.com)
+*   ✉️  You can contact me at [ajdinlojic@gmail.com](mailto:ajdinlojic@gmail.com)
 *   🚀  I'm currently working on [Experfy](http://experfy.com/)
 *   🧠  I'm learning everything about JavaScript, React, NextJS, and EmberJS.
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer or full stack developer.
