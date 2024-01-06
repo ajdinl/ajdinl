@@ -10,7 +10,7 @@ Ajdin is a JavaScript Developer, with a passion for React, NextJS and EmberJS.
 *   🖥️  See my portfolio at [Vercel](http://ajdinlojic.vercel.app/)
 *   ✉️  You can contact me at [ajdinlojic@gmail.com](mailto:ajdinlojic@gmail.com)
 *   🧠  I'm learning everything about JavaScript, React, NextJS, and EmberJS.
-*   🤝  I'm open to collaborating on exciting projects as a frontend developer or full stack developer.
+*   🤝  I'm open to collaborating on exciting projects as a frontend developer.
 *   ⚡  My hobbies are Motorcycling, Skiing, and CryptoCurrency.
 
 ### Skills
