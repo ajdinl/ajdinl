@@ -1,7 +1,7 @@
 Hi 👋 My name is Ajdin Lojic
 ============================
 
-Web Developer
+Software Developer
 ------------------
 
 Ajdin is a Web Developer, with a passion for React, NextJS and EmberJS.
