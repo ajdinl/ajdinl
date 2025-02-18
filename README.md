@@ -4,9 +4,8 @@ Hi 👋 my name is Ajdin Lojic
 Software Engineer
 ------------------
 
-Ajdin is a Web Developer, with a passion for React and NextJS.
+Ajdin is a Web Developer, with a passion for React and Rails.
 
-*   🌍  I'm based in Bosnia and Herzegovina (Sarajevo)
 *   🖥️  See my portfolio at [Vercel](http://ajdinlojic.vercel.app/)
 *   ✉️  You can contact me at [ajdinlojic@gmail.com](mailto:ajdinlojic@gmail.com)
 *   🧠  I'm learning everything about React, NextJS, Typescript, and Rails.
