@@ -4,14 +4,13 @@ Hi 👋 my name is Ajdin Lojic
 Software Engineer
 ------------------
 
-Ajdin is a Web Developer, with a passion for React and Rails.
+Ajdin is a web developer who enjoys crafting modern, high-quality applications, especially with **React and Rails**.
 
 *   🖥️  See my portfolio at [Vercel](http://ajdinlojic.vercel.app/)
 *   ✉️  You can contact me at [ajdinlojic@gmail.com](mailto:ajdinlojic@gmail.com)
-*   🧠  I'm learning everything about React, NextJS, Typescript, and Rails.
-*   🤝  I'm open to collaborating on exciting projects as a full-stack developer.
-*   🖥️  Also, I have extensive knowledge of backend development.
-*   ⚡  My hobbies are Motorcycling, Skiing, and CryptoCurrency.
+*   🧠  I'm constantly improving my skills in **React, Next.js, TypeScript, and Rails**, focusing on building modern and scalable web applications.
+*   🤝  I'm open to collaborating on **exciting and innovative** projects as a full-stack developer.
+*   ⚡  Outside of coding, I'm passionate about **motorcycling, skiing, and cryptocurrency**.
 
 ### Skills
 
