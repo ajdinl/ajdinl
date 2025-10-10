@@ -1,10 +1,8 @@
 Hi 👋 my name is Ajdin Lojic
 ============================
 
-Software Engineer
+Ajdin is a software engineer who enjoys crafting modern, high-quality applications, especially with React and Rails.
 ------------------
-
-Ajdin is a web engineer who enjoys crafting modern, high-quality applications, especially with **React and Rails**.
 
 *   🖥️  Explore portfolio → [Vercel](http://ajdinlojic.vercel.app/)
 *   ✉️  Contact → [ajdinlojic@gmail.com](mailto:ajdinlojic@gmail.com)
